@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cz.tomek.play</groupId>
 	<artifactId>introducing-maven-play</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 <!-- 	<packaging>maven-plugin</packaging> -->
 	
@@ -15,7 +15,7 @@
 		<connection>scm:git:https://github.com/tomkre/imp.git</connection>
 		<developerConnection>scm:git:https://github.com/tomkre/imp.git</developerConnection>
 		<url>https://github.com/tomkre/imp</url>
-	  <tag>introducing-maven-play-1.0.0</tag>
+	  <tag>introducing-maven-play-1.0.1</tag>
   </scm>
 	
 	<mailingLists>
