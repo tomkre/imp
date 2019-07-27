@@ -1,0 +1,16 @@
+ -----
+ Introducing Maven Play
+ -----
+ Tomas Krejcar
+ -----
+ 25-07-2019
+ -----
+
+ This project acts as a starter project for the Introducing Maven book published by
+Apress. For more information check out the Apress Site https://www.apress.com.
+  
++-----+
+
+mvn site
+
++-----+
