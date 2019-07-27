@@ -18,11 +18,11 @@
 			<username>admin</username>
 			<password>admin123</password>
 		</server>
-<!-- 		<server> -->
-<!-- 			<id>nexusSnapshots</id> -->
-<!-- 			<username>admin</username> -->
-<!-- 			<password>admin123</password> -->
-<!-- 		</server> -->
+		<server>
+			<id>github</id>
+			<username>tomkre</username>
+			<password>GreatTom10</password>
+		</server>
 	</servers>
 	<mirrors />
 	<proxies />
